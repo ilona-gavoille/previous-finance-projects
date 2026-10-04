@@ -1,6 +1,6 @@
 # Previous Finance Projects
 
-A collection of academic finance projects completed during my exchange in Seoul, South Korea, at Dongguk University, covering **equity valuation** and **financial statement analysis**. Each project comes with its full deliverables (report, presentation and Excel workbook).
+A collection of academic finance projects completed during my exchange in Seoul, South Korea, at Dongguk University, covering **equity valuation** and **financial statement analysis**. Each project comes with its deliverables (report, presentation and Excel workbook).
 
 |   | Project | Methodology | Grade |
 |---|---------|-------------|-------|
