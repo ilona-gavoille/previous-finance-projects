@@ -4,7 +4,7 @@ A collection of academic finance projects completed during my exchange in Seoul,
 
 |   | Project | Methodology | Grade |
 |---|---------|-------------|-------|
-| 1 | [Spotify Valuation | Discounted Cash Flow (DCF) | **A+** |
+| 1 | Spotify Corporate Valuation | Discounted Cash Flow (DCF) | **A+** |
 | 2 | US Airline Industry: Financial Statement Analysis| Ratio analysis & market performance comparison | **A+** |
 
 ---
