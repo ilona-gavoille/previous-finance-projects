@@ -24,8 +24,6 @@ Estimate the intrinsic value of Spotify using a **Discounted Cash Flow (DCF)** m
 ### Deliverables
 - 📄 Report (PDF)
 
-**Result: A+**
-
 ---
 
 ## 2. US Airline Industry | Financial Statement Analysis
@@ -62,8 +60,6 @@ The resulting performance curves were compared against the **S&P 500** as a benc
 - 📄 Report (PDF)
 - 📊 Presentation (PPTX)
 - 📈 Excel workbook
-
-**Result: A+**
 
 ---
 
