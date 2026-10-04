@@ -22,7 +22,7 @@ Estimate the intrinsic value of Spotify using a **Discounted Cash Flow (DCF)** m
 - Sensitivity analysis on key assumptions
 
 ### Deliverables
-- 📄 Report (PDF): `[Spotify_Valuation]`
+- 📄 Report (PDF)
 
 **Result: A+**
 
