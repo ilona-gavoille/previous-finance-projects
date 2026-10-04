@@ -2,7 +2,7 @@
 
 A collection of academic finance projects completed during my exchange in Seoul, South Korea, at Dongguk University, covering **equity valuation** and **financial statement analysis**. Each project comes with its full deliverables (report, presentation and Excel workbook).
 
-| # | Project | Methodology | Grade |
+|   | Project | Methodology | Grade |
 |---|---------|-------------|-------|
 | 1 | [Spotify Valuation | Discounted Cash Flow (DCF) | **A+** |
 | 2 | US Airline Industry: Financial Statement Analysis| Ratio analysis & market performance comparison | **A+** |
